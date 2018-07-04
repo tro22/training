@@ -1,0 +1,9 @@
+a::before{
+  content: "go to link : - ";
+  color: green;
+}
+
+p::selection{
+  background-color: yello;
+  color: red;
+}
