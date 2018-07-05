@@ -5,3 +5,5 @@ def sum(x, y):
         return y
 
 print(sum(8, 44))
+
+print(sum(20, 40))
