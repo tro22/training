@@ -4,6 +4,6 @@ def sum(x, y):
     else:
         return y
 
-print(sum(8, 44))
+print(sum(80, 44))
 
-print(sum(20, 40))
+print(sum(40, 40))
